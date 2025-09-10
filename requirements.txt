@@ -1,3 +1,3 @@
 python -m venv venv_balancing
 venv_balancing\Scripts\activate     
-pip install praw ipykernel pandas tensorflow matplotlib scikit-learn imbalanced-learn sentence-transformers nlpaug tqdm nltk
+pip install praw ipykernel pandas tensorflow matplotlib scikit-learn imbalanced-learn sentence-transformers nlpaug tqdm nltk seaborn wordcloud contractions emoji
